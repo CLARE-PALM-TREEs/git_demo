@@ -3,7 +3,7 @@ class thing:
         self.name = name
 
     def greet(self):
-        print(f"Hello {self.name}!")
+        print(f"Good day! {self.name}!")
 	
 
 earth = thing("world")
